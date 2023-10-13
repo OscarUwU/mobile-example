@@ -9,7 +9,9 @@ function App() {
       <NavBar/>
       <div className='banner'>
         <h1>"Any darn fool can make something complex; it takes a genius to make something simple"</h1>
+        <div>
         <CallToAction>Learn more</CallToAction>
+        </div>
       </div>
     </div>
   );

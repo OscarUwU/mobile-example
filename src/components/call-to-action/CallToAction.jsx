@@ -12,7 +12,7 @@ const style = {
     borderRadius: '10px',
     fontWeight: '700',
     cursor: 'pointer',
-    position: 'relative',
+
     overflow: 'hidden'
 }
 
